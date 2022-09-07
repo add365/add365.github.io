@@ -1,0 +1,32 @@
+.ProductDetail {
+    background-color: white;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.ProductDetail table, th, td {
+    font-size: 24px;
+    border: 1px solid;
+    border-collapse: collapse;
+    line-height: 180%;
+    font-weight: 800;
+}
+.ProductDetail table {
+    margin: auto;
+    width: 96%;
+}
+.ProductDetail th {
+    text-align: center;
+    width: 30%;
+}
+.ProductDetail td {
+    text-align: left;
+    padding: 3px 10px;
+}
+.ProductDetail__pictureWrap {
+    padding: 0px 20px;
+    text-align: center;
+}
+.ProductDetail__pictureWrap img {
+    margin: auto;
+}
